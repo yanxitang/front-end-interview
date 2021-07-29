@@ -243,8 +243,8 @@ CSS3中的盒模型有以下两种：标准盒子模型、IE盒子模型
 
 可以通过修改元素的box-sizing属性来改变元素的盒模型：
 
-- `box-sizeing: content-box`表示标准盒模型（默认值）
-- `box-sizeing: border-box`表示IE盒模型（怪异盒模型）
+- `box-sizing: content-box`表示标准盒模型（默认值）
+- `box-sizing: border-box`表示IE盒模型（怪异盒模型）
 
 ### 12. 为什么有时候⽤**translate**来改变位置⽽不是定位？ 
 
